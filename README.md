@@ -2,7 +2,7 @@
 # Vanadium
 A traditional proxy site for use in combating web filters.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/zocced/psychic-umbrella/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zocced/psychic-umbrella/tree/main)
 
 ## Setup
 
